@@ -17,5 +17,5 @@ Customer review data for Britis Airways was collected from Skytrax.
 ### Task 2 - Predicting customer buying behaviour
 Customers are more empowered than ever because they have access to a wealth of information at their fingertips. This is one of the reasons the buying cycle is very different to what it used to be. Today, if you’re hoping that a customer purchases your flights or holidays as they come into the airport, you’ve already lost! Being reactive in this situation is not ideal; airlines must be proactive in order to acquire customers before they embark on their holiday.
 
-This task involves building a high quality predictive to predict the successful bookings using customer bookings data.
+This task involves building a high quality predictive model to predict the successful bookings using customer bookings data.
 ![D2](https://github.com/taniab24/Data-Science-British-Airways/assets/94709601/03fb27f4-aa41-48bb-abbf-0815b0264a83)
