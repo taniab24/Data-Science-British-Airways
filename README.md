@@ -11,7 +11,7 @@ Customers who book a flight with BA will experience many interaction points with
 
 This first task is focused on scraping and collecting customer feedback and reviewing data from a third-party source and analysing this data to present any insights you may uncover.
 
-Customer review data for Britis Airways was collected from Skytrax.
+Customer review data for British Airways was collected from Skytrax.
 ![D1](https://github.com/taniab24/Data-Science-British-Airways/assets/94709601/2117c3cf-1e89-4259-9c03-ceb27de2053f)
 
 ### Task 2 - Predicting customer buying behaviour
